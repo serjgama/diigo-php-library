@@ -1,8 +1,6 @@
 diigo-php-wrapper
 =================
 
-Author: Sergio G https://github.com/bearwebua/
-
 Basic and simple PHP wrapper for Diigo API. Allows you to add/update/delete bookmarks in your Diigo profile.
 
 Tested on:
